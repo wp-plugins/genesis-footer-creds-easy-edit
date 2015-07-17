@@ -32,6 +32,7 @@ Please visit (http://alesiadev.com) for support, also suggestions are pretty wel
 
 == Screenshots ==
 
+1. Screenshot-1.png
 
 == Changelog ==
 
